@@ -1,0 +1,35 @@
+
+h1 {
+    color: #7cb518;
+    align-content: center;
+    text-align: center;
+    font-style: nouvelle vague;
+    font-size: 80px;
+}
+
+#menu li {
+    float: center;
+    display: inline-block;
+    width: 200px;
+    text-align:center;
+}
+
+#menu a {
+    color:darkslategray;
+    text-decoration: none;
+    display: block;
+    padding: 15px 20px;
+}
+
+h2 {
+    text-align: center;
+    font-size: 30px;
+    color: darkolivegreen;
+    font-style: unset;
+}
+
+p {
+    margin-left: 50px;
+    margin-right: 50px;
+}
+
